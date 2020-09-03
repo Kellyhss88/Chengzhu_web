@@ -1,0 +1,100 @@
+Journal Papers
+Tang, C. S., Zhu, C., Leng, T., Shi, B., Cheng, Q., & Zeng, H. (2019). Three-dimensional characterization of desiccation cracking behavior of compacted clayey soil using X-ray computed tomography. Engineering Geology, 255, 1-10.
+
+Li, W., Zhu, C., Yang, C., Duan, K., & Hu, W. (2018). Experimental and DEM investigations of temperature effect on pure and interbedded rock salt. Journal of Natural Gas Science and Engineering, 56, 29-41.
+
+C.S. Tang, D.Y. Wang, C. Zhu, Q.Y. Zhou, S.K. Xu, B. Shi. (2018). Characterizing drying-induced clayey soil desiccation cracking process using electrical resistivity method. Applied Clay Science 152, 101-112.
+
+A. Pouya, C. Zhu, C. Arson. (2017). Self-consistent micromechanical approach for damage accommodation in rock-like polycrystalline materials. International Journal of Damage Mechanics. 
+
+Z.G. Chen, C.S. Tang, C. Zhu, B. Shi, and Y.M. Liu. (2017). Compression, swelling and rebound behavior of GMZ bentonite/additive mixture under coupled hydro-mechanical condition. Engineering Geology, 221, 50-60.
+
+C. Zhu, A. Pouya, and C. Arson. (2016). Prediction of viscous cracking and cyclic fatigue of salt polycrystals using a joint-enriched Finite Element Model. Mechanics of Materials, 103, 28–43. 
+
+A. Pouya, C. Zhu, and C. Arson. (2015). Micro-macro approach of salt viscous fatigue under cyclic loading. Mechanics of Materials, 93, 13-31.
+
+C. Zhu, A. Pouya, and C. Arson. (2015). Micro-macro analysis and phenomenological modeling of salt viscous damage and application to salt caverns. Rock Mechanics and Rock Engineering, 48 (6), 2567-2580. 
+
+C. Zhu, C. Arson. (2014). A model of damage and healing coupling halite thermo-mechanical behavior to microstructure evolution. Geotechnical and Geological Engineering, Special Issue: Thermohydro-mechanical behavior of soils and energy geostructures, 33 (2), 389-410. 
+
+C. Zhu, C. Arson. (2014). A thermo-mechanical damage model for rock stiffness during anisotropic crack opening and closure. Acta Geotechnica, 9 (5), 847-867.
+
+Conference Papers
+​​
+
+D. Zeppilli, A. Pouya, and C. Zhu, (2019). Joint-enriched Finite Element Modeling of Fault Slip under Fluid Injection in Reservoir Faults. 53rd U.S. Rock Mechanics and Geomechanics Symposium, New York, NY, USA, June 23-26, 2019.
+
+J. Demuro, S. Kim, and C. Zhu, (2019). Influences of microstructure changes on the permeability of simulated and 3D printed rock masses. 53rd U.S. Rock Mechanics and Geomechanics Symposium, New York, NY, USA, June 23-26, 2019.
+
+Zeppilli, D., Pouya, A., & Zhu, C. (2019). The Effect of Varying Fluid Injection Activities on Induced Earthquakes through Joint-Enriched Finite Element Analyses. Geotechnical Special Publication, 2019(GSP 308), 266-274.
+
+M. Vail, L. Anderson, M. Moroski, C.S. Tang, M.T. Montalbo-Lomboy, and C. Zhu, (2019). Remediation of desiccation cracking in bentonite through microbially induced calcite precipitation. The 2nd International Conference on environmental geotechnology, recycled waste materials and sustainable engineering, Chicago, Illinois, June 16-20, 2019.
+
+C. McGlynn and C. Zhu, (2018). Rethinking seismic protection in areas of substandard construction, TechConnect World Innovation Conference and Expo, Anaheim, CA, May 13-16, 2018.
+
+X.D. Shen, C. Zhu, and C. Arson, (2017). Analysis of microstructure, deformation and permeability of salt/sand mixtures during creep, 6th Biot Conference on Poromechanics, Paris, France, July 9-13, 2017.
+
+C. Zhu, Z.Q. Fan, and P. Eichhubl, (2017). The effect of variable fluid injection rate on the stability of seismogenic faults, 51th U.S. Rock Mechanics and Geomechanics Symposium, San Francisco, CA, USA, June 25-28, 2017.
+
+C. Zhu, X.D. Shen, A. Pouya, and C. Arson, (2017). Numerical study of long-term thermo-mechanical effects on the behavior of rock salt caverns, 51th U.S. Rock Mechanics and Geomechanics Symposium, San Francisco, CA, USA, June 25-28, 2017.
+
+C. Zhu, A. Pouya, C. Arson, J. Ding, F.M. Chester, and J.S. Chester, (2016). Micro-mechanical analysis of salt creep tests with a joint-enriched finite element model, 50th U.S. Rock Mechanics and Geomechanics Symposium, Houston, TX, USA, June 26-29, 2016.
+
+J.H. Ding, F.M. Chester, J.S. Chester, C. Zhu and C. Arson, (2016). Mechanical behavior and microstructure development in consolidation of nominally dry granular salt, 50th U.S. Rock Mechanics and Geomechanics Symposium, Houston, TX, USA, June 26-29, 2016.
+
+C. Zhu and C. Arson, (2016). Damage and healing model of stiffness and permeability for salt rock: microstructure imaging, fabric processes and continuum mechanics, 50th U.S. Rock Mechanics and Geomechanics Symposium, Houston, TX, USA, June 26-29, 2016.
+
+X. Shen, C. Zhu, and C. Arson, (2016). Chemo-mechanical damage and healing of granular salt: micro-macro modeling, 50th U.S. Rock Mechanics and Geomechanics Symposium, Houston, TX, USA, June 26-29, 2016.
+
+C. Zhu and C. Arson, (2015). Fabric-enriched modeling of anisotropic healing induced by diffusion in granular salt, 49th U.S. Rock Mechanics and Geomechanics Symposium, San Francisco, CA, USA, June 28 - July 1, 2015.
+
+W. Jin, C. Zhu, C. Arson, and A. Pouya, (2015). Numerical study of the influence of fluid viscosity on wellbore spalling in drained fractured rock, 49th U.S. Rock Mechanics and Geomechanics Symposium, San Francisco, CA, USA, June 28 - July 1, 2015.
+
+C. Zhu, C. Arson, and A. Pouya, (2015). Theoretical study of damage accommodation in salt subject to viscous fatigue, Mechanical Behavior of Salt VIII, Rapid City, SD, USA, May 26-28, 2015.
+
+C. Zhu, C. Arson, J.H. Jeong, and M. Dutta, (2015). Image processing of fabric evolution in granular salt subject to diffusive mass transfer, Mechanical Behavior of Salt VIII, Rapid City, SD, USA, May 26-28, 2015.
+
+C. Zhu and C. Arson, (2015). Fabric-based modeling of thermo-mechanical damage and healing around salt caverns, Mechanical Behavior of Salt VIII, Rapid City, SD, USA, May 26-28, 2015.
+
+A. Pouya, C. Zhu, and C. Arson, (2014). Micro-macro modeling approach for the triggering of viscous fatigue damage in halite polycrystals under cyclic loading, 48th U.S. Rock Mechanics and Geomechanics Symposium, Minneapolis, MN, USA, June 1-4, 2014.
+
+C. Zhu and C. Arson, (2014). Using microstructure descriptors to model thermo-mechanical damage and healing in salt rock, 48th U.S. Rock Mechanics and Geomechanics Symposium, Minneapolis, MN, USA, June 1-4, 2014.
+
+C. Zhu and C. Arson, (2014). Theoretical bases of a thermo-mechanical damage and DMT-healing model for rock. Geo-Congress 2014: Geo-Characterization and Modeling for Sustainability, Atlanta, GA, USA, February 23-26, 2014.
+
+C. Zhu and C. Arson, (2013). Modeling the influence of thermo-mechanical crack opening and closure on rock stiffness, 5th Biot Conference on Poromechanics, Vienna, Austria, July 10-12, 2013.
+
+C. Zhu, C. Arson, and H. Xu, (2013). Modeling stiffness anisotropy induced by crack opening in rocks subject to thermal versus mechanical stress gradient, 47th U.S. Rock Mechanics and Geomechanics Symposium, San Francisco, CA, USA, June 23-26, 2013.
+
+C. Zhu, K. Megawati, and M.Y. Walling, (2011). Site characterization for urban seismic hazard in Singapore from microtremor study, 4th International IASPEI/IAEE Symposium on the Effects of Surface Geology on Seismic Motion (ESG4), University of California, Santa Barbara, USA, August 23-26, 2011.
+
+C. Zhu, K. Megawati, and M.Y. Walling, (2011). Use of microtremors for site effects evaluation in Singapore, 2nd Interna- tional Conference on Earthquake Engineering and Disaster Mitigation: Seismic Risk Reduction and Damage Mitigation for Advancing Earthquake Safety of Structure, Surabaya, Indonesia, July 19-20, 2011.
+
+Conference Abstracts
+Z. Zhuo, A. Ali, Y. Mehta, Z.X. Xie, and C. Zhu, 2019. Coupled thermo-hydro-mechanical analysis of subgrade soils under freeze-thaw cycles, Engineering Mechanics Institute 2019, Pasadena, CA, June 18-21, 2019.
+
+M. Vail, L. Anderson, M. Moroski, C. Zhu, C.S. Tang, and M.T. Montalbo-Lomboy, 2019. Bio-remediation of desic- cation cracks in MICP-treated bentonite, Delaware Valley Geo-Institute March 2019 Dinner Meeting, Villanova, PA, March 18, 2019.
+
+D. Zeppilli, C. Zhu, and A. Pouya, 2019. Effect of Varying Fluid Injection Activities on Induced Earthquakes through Joint-enriched Finite Element Analyses, Delaware Valley Geo-Institute March 2019 Dinner Meeting, Villanova, PA, March 18, 2019.
+
+Z. Zhuo, A. Ali, Y. Mehta, Z.X. Xie, and C. Zhu, 2019. Insulated Flexible Pavement Systems For Cold Regions Applica- tions, Delaware Valley Geo-Institute March 2019 Dinner Meeting, Villanova, PA, March 18, 2019.
+
+M. Vail, L. Anderson, M. Moroski, C. Zhu, C.S. Tang, and M.T. Montalbo-Lomboy, 2018. Remediating desiccation cracks in bentonite through Microbial-Induced Calcite Precipitation, 20th Annual NJDOT Research Showcase, West Windsor, NJ, October 17, 2018.
+
+D. Zeppilli, C. Zhu, P. Eichhubl, and Z.Q. Fan, 2018. Effect of varying fluid injection rate on fault reactivation, Delaware Valley Geo-Institute March 2018 Dinner Meeting, Villanova, PA, March 15, 2018.
+
+C. Zhu, Z. Fan, and P. Eichhubl, 2017. Effect of varying fluid injection rate on induced seismicity, American Geophysical Union, Fall Meeting 2017.  
+
+C. Zhu, D.Y. Wang, and C.S. Tang, 2017. Characterizing cracking process in clayey soil using electrical resistivity method, 19th Annual NJDOT Research Showcase, West Windsor, NJ, October 25, 2017.
+
+P. Eichhubl, Z.Q. Fan, and C. Zhu, 2017. Basement faults reactivation by fluid injection into sedimentary reservoirs, European Geosciences Union General Assembly, Vienna, Austria, April 23-28, 2017.
+
+Z.Q. Fan, P. Eichhubl, P. Newell, and C. Zhu. Induced earthquakes on basement faults caused by injection into sedimentary reservoirs, AAPG Annual Convention and Exhibition, Houston, Texas, April 2-5, 2017.
+
+J.H. Ding, F.M. Chester, J.S. Chester, C. Zhu, X. Shen, and C. Arson, 2016. Mechanical behavior and microcrack development in nominally dry synthetic salt-rock during cyclic loading, American Geophysical Union Fall Meeting, San Francisco, December 12-16, 2016.
+
+C. Arson, L.A.N.R. Douma, C. Zhu, and C.J. Spiers, 2015. Role of the specific surface of salt in healing processes driven by diffusion and pressure solution, 2015 Conference of the ASCE Engineering Mechanics Institute, Stanford University, Palo Alto, CA, June 16-19, 2015.
+
+C. Arson, H. Xu, and C. Zhu, 2013. Phenomenological and numerical modeling of the damaged zone processing around hydraulic fractures, Math, Science and Computation of Hydraulic Fracturing CEES Meeting, Stanford University, Palo Alto, CA, March 21st , 2013.
+
+M.Y. Walling, K. Megawati, and C. Zhu, 2012. Estimation of VS30 soil profile structure of Singapore from microtremor records, European Geosciences Union General Assembly, Vienna, Austria, April 22-27, 2012.

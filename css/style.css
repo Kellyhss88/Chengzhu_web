@@ -1,0 +1,213 @@
+/*  The follow code is a "reset" of sorts. The box-sizing property can make
+    building CSS layouts easier and a lot more intuitive.
+*/
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* Styling and layout below this line */
+
+/* color palette
+Rowan Brown #57150b
+Jersey Blue #0067a0
+darkgrey #A9A9A9
+rgb(169,169,169)
+hover:#fac809
+------------------------------------------------*/
+/*fonts
+font-family: Arial,Georgia,sans-serif;--------------------------*/
+
+/* Globe style--------------------------------------------------------------------------------*/
+body{
+    font-family:'Open Sans', sans-serif;
+    margin: 0;
+}
+
+h1, h2 h3{
+  font-family:'Arvo', serif;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+h2 {
+   font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+h3 {
+  font-size: 20px;
+  margin: 0;
+}
+a{
+  color: #FFFFFF;
+  background: #57150b;
+  text-decoration:none;
+}
+a:hover{
+  text-decoration:none;
+  color:#fac809;
+  background:#57150b;
+}
+
+
+
+/*header and footer-------------------------------------------------------------------------*/
+
+header, footer
+{
+  background: #A9A9A9;
+   color: #000000;
+}
+
+/*header*/
+header{
+  padding-top:50px;
+  position:relative;
+}
+
+.engineeringlogo_image{
+    width: 550px;
+    height:156px;
+    position: relative;
+    top: 0px; left: 0px;
+    margin-left: 20px;
+    padding: 10px 10px;
+/*    overflow: hidden;*/
+    /*border:10px solid;
+/*    clear:both;*/
+}
+
+.content-wrap{
+  max-width: 2000px;
+  margin-left: 100px;
+/*  padding: 60px 50px;*/
+  overflow: hidden;
+}
+.col_narrow
+{
+/*    margin-left: 20px;*/
+/*    padding: 20px 0px 20px 10px;*/
+    width: 20%;
+    float: left;
+    /*border:10px solid;*/
+    box-sizing: border-box;
+}
+.col_wide
+{
+    width: 70%;
+    margin-top: 15px;
+    float: right;
+    /*border:10px solid;*/
+    overflow: hidden;
+    box-sizing: border-box;
+
+}
+
+/*footer-*/
+.rowan_logo{
+    width:40px;
+    height:40px;
+    display:inline-block;
+    float:left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.job-info{
+display:inline-block;
+width:50%;
+float:left;
+padding-left: 20px;
+/*position:absolute;*/
+}
+
+.job-contact{
+
+width:50%;
+float:right;
+}
+.contact{
+  background: #A9A9A9;
+   color: #000000;
+}
+
+/*navigarion-------------------------------------------------------------------------*/
+nav{
+  text-align:center;
+  background:#57150b;
+  color: White;
+  position:fixed;
+  width:100%;
+  top:0;
+}
+nav a{
+  display: inline-block;
+  padding:15px 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+
+
+/*principal inverstigator-------------------------------------------------------------------------*/
+
+
+.investigator-wrap{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 60px 50px;
+  overflow: hidden;
+  border: 2px solid black;
+  /* box-sizing: border-box; */
+}
+.grad-warp{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 60px 50px;
+  overflow: hidden;
+  border: 2px solid black;
+  /* display:inline; */
+}
+
+.col-left{
+  width: 30%;
+  float: left;
+  margin-top: 10px;
+  /* display:inline; */
+  /* box-sizing: border-box; */
+
+}
+.col-right{
+  width: 70%;
+  /* float:right; */
+  padding-left: 50px;
+  margin-top: 10px;
+  margin-bottom: 150px;
+  border: 2px solid black;
+  /* display:inline; */
+  /* box-sizing: border-box; */
+}
+/* .person-description{ */
+  /* margin-bottom: 100px; */
+/* } */
+/* .person-description p:first-of-type { */
+  /* margin-top: 80px; */
+/* } */
+
+/*Graduate students-------------------------------------------------------------------------*/
+
+
+
+
+
+
+/*undergraduate students-------------------------------------------------------------------------*/

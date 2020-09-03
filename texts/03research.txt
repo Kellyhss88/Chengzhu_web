@@ -1,0 +1,55 @@
+Damage and Healing
+
+Anisotropy of rock stiffness and deformation upon crack opening, closure and healing
+
+A thermodynamic framework is proposed to couple the effect of mechanical stress and temperature on crack opening and closure in rocks. The model is based on continuum damage mechanics, with damage defined as the second-order crack density tensor. The free energy of the damaged rock is expressed as a function of deformation, temperature, and damage. The damage criterion captures mode I crack propagation, the reduction in toughness due to heating, and the increase in energy release rate with cumulated damage. Crack closure is modeled through unilateral effects produced on rock stiffness.
+
+
+
+
+
+Viscous Behavior and Fatigue
+
+Self-consistent Homogenization Approach
+
+We used a self-consistent homogenization scheme to upscale the viscoplastic and damage behavior of halite polycrystals from mono-crystal viscous glide and breakage mechanisms. We modeled mono-crystals as spherical inclusions embedded in an infinite homogeneous matrix, and we assumed purely elastic inclusion/matrix interactions. We introduced a failure criterion at the mono-crystal scale in order to predict grain breakage and the subsequent damage effects on salt rock elastic moduli.
+
+
+
+
+
+
+Microstructural Characterization
+
+Creep and Consolidation of Granular Salt
+
+Deformation, damage and healing are sought in the form of functions of salt fabric descriptors. Fabric descriptors are sought in the form of moments of probability of geometric parameters of salt microstructure. Specific probability functions are obtained by analyzing microscope observations of halite crystals during creep tests carried out on table salt. These preliminary experiments are used to illustrate the concept of fabric-based damage and healing mechanics adopted in the model. The evolution of salt fabric is captured by microscope and Xray CT scan, and analyzed using image analysis techniques.  
+
+
+Desiccation Cracking in Clayey Soil
+
+Global climate change has driven the more frequent occurrence of extreme drought periods in many regions. Under such severe conditions, soils experience significant amount of water loss and considerable volumetric shrinkage. The shrinkage of soil during drying is generally associated with the progressive formation of cracks, which severely degrades both hydraulic and mechanical properties of soils.
+
+
+
+
+
+
+Geological Storage
+
+Storage in Salt Cavern
+
+Underground cavities in rock salt have received increased attention for the storage of oil, gas, and compressed air energy. Rock salt is a viscoplastic material that exhibits creep under high stresses near the cavity wall. Salt viscous behavior and its effect on the closure of the cavities has been extensively studied. Usually, the damage process is associated with a crack-induced volumetric deformation, captured by a dilatancy boundary. Phenomenological models based on the dilatancy boundary do not account for stiffness changes and could not predict damage-induced anisotropy and strength reduction, which requires further development to better evaluate the thermo-mechanical effects on the long-term behavior of rock salt caverns.
+
+
+
+Nuclear Waste Disposal
+
+The GMZ bentonite/additive mixture has been proposed as the buffer/backfill material for the high-level radioactive waste geological disposal. We study pure GMZ bentonite and its mixture with other additive materials. To investigate the volumetric deformation characteristics of the bentonite/additive mixtures under coupled hydromechanical conditions, a series of oedometer tests are carried out, including preliminary compression, swelling under constant vertical stress, re-compression, and unloading-rebound test.
+
+
+
+Fluid Injection
+
+Fault reactivation in response to the injection of wastewater and completion fluids into the subsurface is controlled by a number of site-specific and operational parameters, the latter including volume, rate, duration, and injection pressure. Total injection volume has been found to correlate with the maximum magnitude of induced earthquakes. We investigate the effects of variable fluid injection rate on the stability of nearby faults using 3D fully coupled poroelastic finite element simulations for injection into a multi-layer sequence containing a favorably orientated fault that extends from the injection reservoir into underlying crystalline basement.
+
